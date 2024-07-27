@@ -1,0 +1,10 @@
+C:\Users\LAB RPL 3 - 22\source\repos\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe.config
+C:\Users\LAB RPL 3 - 22\source\repos\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe
+C:\Users\LAB RPL 3 - 22\source\repos\perpustakaan\perpustakaan\bin\Debug\perpustakaan.pdb
+C:\Users\LAB RPL 3 - 22\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.AssemblyReference.cache
+C:\Users\LAB RPL 3 - 22\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Form1.resources
+C:\Users\LAB RPL 3 - 22\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Properties.Resources.resources
+C:\Users\LAB RPL 3 - 22\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.GenerateResource.cache
+C:\Users\LAB RPL 3 - 22\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\LAB RPL 3 - 22\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+C:\Users\LAB RPL 3 - 22\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
